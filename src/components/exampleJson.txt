@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 3068,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Sucharita Ganguly, Siddharth Suvarna",
+            "title": "Huawei Nova Y91 With 6.95-Inch Display, 7,000mAh Battery Launched: Price, Specifications",
+            "description": "Huawei Nova Y91 was launched in China on Monday. The phone features a large 6.95-inch Full-HD+ LCD display. It is powered by a Qualcomm Snapdragon 680 SoC and is backed by a 7,000mAh battery with 22.5W fast charging support.",
+            "url": "https://www.gadgets360.com/mobiles/news/huawei-nova-y91-price-launch-enjoy-60x-specifications-features-4055677",
+            "urlToImage": "https://i.gadgets360cdn.com/large/huawei_Nova_y91_huawei_1684744739406.jpg",
+            "publishedAt": "2023-05-22T10:29:35Z",
+            "content": "Huawei Nova Y91 was silently launched in the global market on Monday. The phone is the latest in the Nova Y-series. Earlier this year, the company released the Huawei Nova Y61, which is powered by an… [+2156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Agence France-Presse",
+            "title": "Meta Faces Record EUR 1.2 Billion Fine in EU Over User Data Transfer to US",
+            "description": "Facebook owner Meta has been fined a record EUR 1.2 billion (nearly Rs. 10,750 crore) for transferring EU user data to the United States in breach of a previous court ruling, Ireland's regulator announced Monday. The Irish Data Protection Commission (DPC), wh…",
+            "url": "https://www.gadgets360.com/apps/news/meta-facebook-fine-record-our-1-2-billion-eu-user-data-transfer-us-privacy-breach-4055996",
+            "urlToImage": "https://i.gadgets360cdn.com/large/meta_facebook_fine_eu_privacy_reuters_1684348690852.jpg",
+            "publishedAt": "2023-05-22T10:07:42Z",
+            "content": "Facebook owner Meta has been fined a record EUR 1.2 billion (nearly Rs. 10,750 crore) for transferring EU user data to the United States in breach of a previous court ruling, Ireland's regulator anno… [+2985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Google Pixel 7a durarbility tested (Video)",
+            "description": "The new Google Pixel 7a smartphone launched recently, and now we get to find out how durable the handset is in a new video from JerryRigEverything, the handset is put through a range of durability tests. The tests include a bend test for the handset, a burn t…",
+            "url": "https://www.geeky-gadgets.com/google-pixel-7a-durarbility-tested-video-22-05-2022/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Google-Pixel-7a-.webp",
+            "publishedAt": "2023-05-22T10:02:08Z",
+            "content": "The new Google Pixel 7a smartphone launched recently, and now we get to find out how durable the handset is in a new video from JerryRigEverything, the handset is put through a range of durability te… [+1216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "author": "GIGAZINE（ギガジン）",
+            "title": "SanDiskのSSDで「データが突然消える」などの症状が報告される",
+            "description": "by mukesh kumarSanDiskのポータブルSSD「Extreme V2」および「Extreme Pro V2」を使用しているユーザーから、SSDのデータが突然消え、場合によってはSSDそのものが利用不可能になるという不具合が報告されています。SanDisk Extreme SSDs keep abruptly failing-firmware fix for only some promised | Ars Technicahttps://arstechnica.com/gadgets/2023/0…",
+            "url": "https://news.livedoor.com/article/detail/24283677/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/1/c/1c6a6_88_4431c025f05d910475435655cb80abbc.jpg",
+            "publishedAt": "2023-05-22T10:00:00Z",
+            "content": "by mukesh kumar\r\nSanDiskSSDExtreme V2Extreme Pro V2SSDSSD\r\nSanDisk Extreme SSDs keep abruptly failing-firmware fix for only some promised | Ars Technica\r\nhttps://arstechnica.com/gadgets/2023/05/sandi… [+393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Libsyn.com"
+            },
+            "author": null,
+            "title": "Airplane crash for YouTube views, Apple's VR headset & laptop expiration dates",
+            "description": "Plus, is your info safe with Amazon Clinic? I tell you why it's a privacy no-go. Also, I give my advice to a realtor dealing with an influx of spam calls. A shifty USPS employment scam, big dreams for Zuck's dead Metaverse and five ways to spot legit-looking …",
+            "url": "https://sites.libsyn.com/463818/kkt-mon-2023-0522",
+            "urlToImage": "http://assets.libsyn.com/content/152333031?height=250&width=250&overlay=true",
+            "publishedAt": "2023-05-22T10:00:00Z",
+            "content": "Sound like a tech pro, even if youre not! Award-winning popular host Kim Komando is your secret weapon.\r\nKim is in a class all her own. Her widely successful radio show is heard on over 500 stations … [+1067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Cyberpunk 2077 Phantom Liberty expansion details",
+            "description": "Fans of the Cyberpunk 2077 game created by CD Projekt Red patiently waiting for the first and only major expansion that is planned to launch later this year. We’ll be pleased to know that the developer team has hinted on themes of what the storyline may inclu…",
+            "url": "https://www.geeky-gadgets.com/cyberpunk-2077-phantom-liberty-expansion-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Cyberpunk-2077-Phantom-Liberty-expansion.jpg",
+            "publishedAt": "2023-05-22T09:59:14Z",
+            "content": "Fans of the Cyberpunk 2077 game created by CD Projekt Red patiently waiting for the first and only major expansion that is planned to launch later this year. We’ll be pleased to know that the develop… [+1826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Witseer P9 ultrashort throw interactive, portable projector",
+            "description": "Witseer P9 as a new ultra short throw portable projector that can be used with Android, iOS, macOS and Windows PC systems and features a wealth of connectivity including USB-A, HDMI ARC and audio output as well as supporting Bluetooth 5.0 and screen casting t…",
+            "url": "https://www.geeky-gadgets.com/ultra-short-throw-portable-projector-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Witseer-P9-portable-projector.jpg",
+            "publishedAt": "2023-05-22T09:44:56Z",
+            "content": "Witseer P9 as a new ultra short throw portable projector that can be used with Android, iOS, macOS and Windows PC systems and features a wealth of connectivity including USB-A, HDMI ARC and audio out… [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "What’s the difference between USB-C and USB-A",
+            "description": "We have previously covered the difference between USB-C and Thunderbolt and USB-C and Lightning, this guide is designed to explain the differences between USC-C and USB-A. Universal Serial Bus (USB) is a commonly used interface for connecting devices and tran…",
+            "url": "https://www.geeky-gadgets.com/whats-the-difference-between-usb-c-and-usb-a/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/USB-C-and-USB-A.jpg",
+            "publishedAt": "2023-05-22T09:29:46Z",
+            "content": "We have previously covered the difference between USB-C and Thunderbolt and USB-C and Lightning, this guide is designed to explain the differences between USC-C and USB-A. Universal Serial Bus (USB) … [+5756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Graphene-X carry-on luggage and backpack hits Kickstarter",
+            "description": "The design team and engineers from luggage company Graphene-X have returned to Kickstarter this month and launched their new range of backpack and carry on luggage which has already raised over $140,000 thanks to over 640 backers with still 24 days remaining.…",
+            "url": "https://www.geeky-gadgets.com/carry-on-luggage-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Graphene-X-carry-on-luggage.jpg",
+            "publishedAt": "2023-05-22T09:26:16Z",
+            "content": "The design team and engineers from luggage company Graphene-X have returned to Kickstarter this month and launched their new range of backpack and carry on luggage which has already raised over $140,… [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Press Trust of India",
+            "title": "PhonePe Raises Additional $100 Million Investment From General Atlantic During Ongoing Funding Round",
+            "description": "Decacorn fintech firm PhonePe on Monday said it has secured an additional $100 million investment from General Atlantic.",
+            "url": "https://www.gadgets360.com/apps/news/phonepe-raises-additional-100-million-investment-general-atlantic-4055833",
+            "urlToImage": "https://i.gadgets360cdn.com/large/phonepe_image_1625665903508.jpg",
+            "publishedAt": "2023-05-22T09:12:30Z",
+            "content": "Decacorn fintech firm PhonePe on Monday said it has secured an additional $100 million (about Rs. 828 crore) investment from General Atlantic.\r\nWith this fundraising, General Atlantic and its co-inve… [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "BenQ ideaCam web camera with 15x zoom lens attachment",
+            "description": "BenQ has launched a new zoom web camera this week equipped with a 15x magnification lens attachment. The ideaCam has been specifically created to deliver “near 4K imagery” with an optimized resolution of 3264 x 2488 pixels, within a 4:3 aspect ratio. Together…",
+            "url": "https://www.geeky-gadgets.com/zoom-web-cam-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/BenQ-ideaCam-web-camera-with-15x-zoom.jpg",
+            "publishedAt": "2023-05-22T09:04:28Z",
+            "content": "BenQ has launched a new zoom web camera this week equipped with a 15x magnification lens attachment. The ideaCam has been specifically created to deliver “near 4K imagery” with an optimized resolutio… [+2147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Another looks at iOS 16.5 (Video)",
+            "description": "Apple recently released iOS 16.5 for the iPhone, they also released iPadOS 16.5 for the iPad, macOS Ventura 13.4 for the Mac, and watchOS 9.5 for the Apple Watch. We also heard about some new betas earlier today, this included the new iOS 16.6 beta 1 that was…",
+            "url": "https://www.geeky-gadgets.com/another-looks-at-ios-16-5-video-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/iOS-16.5-3.webp",
+            "publishedAt": "2023-05-22T09:00:31Z",
+            "content": "Apple recently released iOS 16.5 for the iPhone, they also released iPadOS 16.5 for the iPad, macOS Ventura 13.4 for the Mac, and watchOS 9.5 for the Apple Watch. We also heard about some new betas e… [+1670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Last Of Us PC port fixed? Digital Foundry investigate",
+            "description": "PC gamers holding onto cash until developer Naughty Dog fixes the issues that were plaguing the Last Of Us PC port game at launch. Might be interested in a new analysis video created by the team at Digital Foundry investigating whether the latest patches of a…",
+            "url": "https://www.geeky-gadgets.com/last-of-us-pc-port-fixed-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Last-Of-Us-PC-port-fixed-Digital-Foundry-investigates.jpg",
+            "publishedAt": "2023-05-22T08:45:49Z",
+            "content": "PC gamers holding onto cash until developer Naughty Dog fixes the issues that were plaguing the Last Of Us PC port game at launch. Might be interested in a new analysis video created by the team at D… [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "watchOS 9.6 Beta 1 released to developers",
+            "description": "Apple has released watchOS 9.6 beta 1 to developers, we are also expecting it to be made available to public beta testers soon as well. This new beta of watchOS 9,6 comes just a few days after Apple released watchOS 9.5 to everyone. The watchOS 9.5 software u…",
+            "url": "https://www.geeky-gadgets.com/watchos-9-6-beta-1-released-to-developers-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Apple-Watch-2-2.webp",
+            "publishedAt": "2023-05-22T08:31:13Z",
+            "content": "Apple has released watchOS 9.6 beta 1 to developers, we are also expecting it to be made available to public beta testers soon as well. This new beta of watchOS 9,6 comes just a few days after Apple … [+1320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Freedare fat tire electric bike offers 150 km range, 750w Bafang Motor",
+            "description": "If you are looking to upgrade your existing electric bike to something a little more rugged you might be interested in the world’s first smart fat tire electric bike in the form of Freedare. Launched via Kickstarter this month, the project has already raised …",
+            "url": "https://www.geeky-gadgets.com/fat-tire-electric-bike-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Freedare-fat-tire-electric-bike.jpg",
+            "publishedAt": "2023-05-22T08:28:47Z",
+            "content": "If you are looking to upgrade your existing electric bike to something a little more rugged you might be interested in the world’s first smart fat tire electric bike in the form of Freedare. Launched… [+2850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Tony Muchiri",
+            "title": "China hits back, bans major US chip maker Micron",
+            "description": "In a recent turn of events, China has issued a ban on the US memory chip company Micron, preventing them from selling their products to ...\nThe post China hits back, bans major US chip maker Micron appeared first on Gizchina.com.",
+            "url": "https://www.gizchina.com/2023/05/22/china-hits-back-bans-major-us-chip-maker-micron/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2023/05/Screenshot-2023-05-22-112426-1200x578.jpg",
+            "publishedAt": "2023-05-22T08:26:03Z",
+            "content": "In a recent turn of events, China has issued a ban on the US memory chip company Micron, preventing them from selling their products to domestic Chinese companies. This move comes in response to the … [+5298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Radhika Parashar, David Delima",
+            "title": "Bitcoin Pizza Day 2023: Significance, History and All You Need to Know",
+            "description": "Thirteen years ago, on May 22, 2010 — Bitcoin was used for the first time to buy a real-world commodity — pizza. To commemorate the use of Bitcoin for a real-world purchase May 22 is marked as Bitcoin Pizza Day. Industry players like Binance and CoinDCX have …",
+            "url": "https://www.gadgets360.com/cryptocurrency/features/bitcoin-pizza-day-2023-anniversary-laszlo-hanyecz-10000-btc-usd-270-million-4055668",
+            "urlToImage": "https://i.gadgets360cdn.com/large/pizza_btc_DannyCrypt_twitter_large_1684743359241.jpg",
+            "publishedAt": "2023-05-22T08:22:58Z",
+            "content": "Bitcoin led the rise in popularity of cryptocurrencies over a decade ago, but the digital currencies did not have any immediate use cases. On this day 13 years ago Bitcoin was used for the first time… [+4727 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Julian Horsey",
+            "title": "Marvel Secret Invasion TV series premiers June 21 on Disney+",
+            "description": "Marvel fans patiently waiting for the premiere of the new Marvel Studios’ Secret Invasion will be pleased to know that it will premiere on the Disney+ streaming service just under a months time on May 21, 2023. Secret Invasion stars Samuel L. Jackson, Ben Men…",
+            "url": "https://www.geeky-gadgets.com/marvel-secret-invasion-tv-series-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/Marvel-Studios-Secret-Invasion-release-date.jpg",
+            "publishedAt": "2023-05-22T08:16:41Z",
+            "content": "Marvel fans patiently waiting for the premiere of the new Marvel Studios Secret Invasion will be pleased to know that it will premiere on the Disney+ streaming service just under a months time on May… [+1356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "BMW Concept Touring Coupe unveiled",
+            "description": "BMW has unveiled a new concept car, the BMW Concept Touring Coupe, and the vehicle was unveiled at the Concorso d’Eleganza Villa d’Este 2023. This new concept reminds me of the BMW Z3 M Coupe which launched in 1998. The new BMW Concept Touring Coupe is a one-…",
+            "url": "https://www.geeky-gadgets.com/bmw-concept-touring-coupe-unveiled-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/BMW-Concept-Touring-Coupe3.jpg",
+            "publishedAt": "2023-05-22T08:00:32Z",
+            "content": "BMW has unveiled a new concept car, the BMW Concept Touring Coupe, and the vehicle was unveiled at the Concorso dEleganza Villa dEste 2023. This new concept reminds me of the BMW Z3 M Coupe which lau… [+2162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Sucharita Ganguly, Siddharth Suvarna",
+            "title": "Motorola Razr 40 Ultra Likely to Launch as Motorola Razr+ in the US: Report",
+            "description": "Motorola Razr 40 Ultra is expected to launch as the Motorola Razr+ in the US. Previous reports suggested that the phone could also release as the Motorola Razr 2023 in select regions. The phone is expected to feature a 3.4-inch OLED outer display, considerabl…",
+            "url": "https://www.gadgets360.com/mobiles/news/motorola-razr-plus-40-ultra-moto-global-launch-us-leak-4055296",
+            "urlToImage": "https://i.gadgets360cdn.com/large/moto_razr_40_ultra_twitter_evleaks_1684735546837.jpg",
+            "publishedAt": "2023-05-22T07:54:05Z",
+            "content": "Motorola Razr 40 Ultra is scheduled to launch on June 1. The upcoming clamshell foldable smartphone is expected to succeed the Moto Razr 2022, which was released in August last year. Lenovo, Motorola… [+2520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Reuters",
+            "title": "Regulators Employ Old Rules, Creative Thinking to Tackle ChatGPT-Like AI Technology",
+            "description": "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate.",
+            "url": "https://www.gadgets360.com/internet/news/chatgpt-openai-regulators-old-laws-control-ai-technology-eu-rules-4055578",
+            "urlToImage": "https://i.gadgets360cdn.com/large/chatgpt_openai_reuters_1675831938432.jpg",
+            "publishedAt": "2023-05-22T07:49:34Z",
+            "content": "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and … [+5351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Rahul Chettiyar, Manas Mitul",
+            "title": "BGMI Reportedly Available to Download on Google Play Store Through URL",
+            "description": "Battlegrounds Mobile India (BGMI) is reportedly available to download on select Android devices. Several users online have spotted the battle royale game on the Google Play Store, ready to download without any prior date confirmation from publisher Krafton. T…",
+            "url": "https://www.gadgets360.com/games/news/bgmi-download-play-store-android-unban-news-2023-servers-offline-battlegrounds-mobile-india-krafton-4055544",
+            "urlToImage": "https://i.gadgets360cdn.com/large/bgmi_download_unban_report_1684741190157.jpg",
+            "publishedAt": "2023-05-22T07:35:56Z",
+            "content": "Battlegrounds Mobile India (BGMI) is reportedly available to download on specific Android devices. Several users online have spotted the once-tarnished battle royale game on the Google Play Store, re… [+2619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Nithya P Nair, Siddharth Suvarna",
+            "title": "Xiaomi Civi 3 Launch Set for May 25; Teased to Get Four Colour Options, 50-Megapixel Rear Camera",
+            "description": "Xiaomi took to Weibo to confirm the arrival of Xiaomi Civi 3 in China. The handset will launch on May 25 and is teased to feature a triple rear camera setup that comprises a 50-megapixel primary sensor. It is confirmed to be offered in four colour options.",
+            "url": "https://www.gadgets360.com/mobiles/news/xiaomi-civi-3-launch-date-may-25-specifications-colour-options-teasers-weibo-4055469",
+            "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_civi_3_1684738580916.jpg",
+            "publishedAt": "2023-05-22T07:34:44Z",
+            "content": "Xiaomi Civi 3 launch will take place in China on Thursday, May 25, the company has announced. The new Civi series smartphone will be a successor to Xiaomi Civi 2, that was launched in September last … [+2126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Apple releases macOS Ventura 13.5 beta 1",
+            "description": "Apple recently released iOS 16.6 Beta 1 for the iPhone and iPadOS 16.6 Beta 1 for the iPad, they also released a new beta for the Mac, macOS Ventura 13.5 beta 1, this comes just a few days after the general release of macOS Ventura 13.4. The new macOS Ventura…",
+            "url": "https://www.geeky-gadgets.com/apple-releases-macos-ventura-13-5-beta-1-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/macOS-Ventura-13.4-beta-1-1-1-1.jpg",
+            "publishedAt": "2023-05-22T07:31:31Z",
+            "content": "Apple recently released iOS 16.6 Beta 1 for the iPhone and iPadOS 16.6 Beta 1 for the iPad, they also released a new beta for the Mac, macOS Ventura 13.5 beta 1, this comes just a few days after the … [+1878 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "Sovan Mandal",
+            "title": "New Guoyue K3 Color e-note comes with 10.3-inch Kaleido 3 display",
+            "description": "Here is a new e-note in town. It is the Guoyue K3 Color and comes with a 10.3-inch E Ink Kaleido 3 display. The display specs should be familiar by now, which includes support for 4096 colors along with 300 PPI resolution in Black and White mode, which drops …",
+            "url": "https://goodereader.com/blog/tablet-slates/new-guoyue-k3-color-e-note-comes-with-10-3-inch-kaleido-3-display",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2023/05/22025309/Guoyue-K3-Color-e-note.jpg",
+            "publishedAt": "2023-05-22T07:16:28Z",
+            "content": "Here is a new e-note in town. It is the Guoyue K3 Color and comes with a 10.3-inch E Ink Kaleido 3 display. The display specs should be familiar by now, which includes support for 4096 colors along w… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "What’s new in watchOS 9.5",
+            "description": "Apple recently released watchOS 9.5 for the Apple Watch, they also released iOS 16.5 for the iPhone, iPadOS 16.5 for the iPad, tvOS 16.5 for the Apple TV, and macOS Ventura 13.4 for the Mac. We have previously seen a video of the IOS 16,5 software update in a…",
+            "url": "https://www.geeky-gadgets.com/whats-new-in-watchos-9-5-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/watchOS-9.5-1.jpg",
+            "publishedAt": "2023-05-22T07:00:21Z",
+            "content": "Apple recently released watchOS 9.5 for the Apple Watch, they also released iOS 16.5 for the iPhone, iPadOS 16.5 for the iPad, tvOS 16.5 for the Apple TV, and macOS Ventura 13.4 for the Mac.\r\nWe have… [+1253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "ANI",
+            "title": "TCS Bags Rs. 15,000-Crore Purchase Order From BSNL to Deploy 4G Network Across India",
+            "description": "Consultancy Services on Monday said a consortium, led by the IT giant, received an advance purchase order valued over Rs. 15,000 crore from the state-run BSNL for the deployment of a fourth-generation mobile (4G) network across India.",
+            "url": "https://www.gadgets360.com/telecom/news/bsnl-4g-network-india-tcs-advance-purchase-order-rs-15000-crore-4055380",
+            "urlToImage": "https://i.gadgets360cdn.com/large/bsnl_reuters_1571835632008.JPG",
+            "publishedAt": "2023-05-22T06:38:02Z",
+            "content": "Tata Consultancy Services on Monday said a consortium, led by the IT giant, received an advance purchase order valued over Rs. 15,000 crore from the state-run BSNL for the deployment of a fourth-gene… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "iOS 16.6 beta 1 released to developers (Video)",
+            "description": "Last week Apple released iOS 16.5 for the iPhone and now they have released a new beta to developers, iOS 16.6 beta 1, the also released iPadOS 16.6 beta 1 for the iPad. We previously heard some rumors about the new iOS 16.6 software update, exactly when Appl…",
+            "url": "https://www.geeky-gadgets.com/ios-16-6-beta-1-released-to-developers-video-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/iOS-16.6-beta-1.jpg",
+            "publishedAt": "2023-05-22T06:30:45Z",
+            "content": "Last week Apple released iOS 16.5 for the iPhone and now they have released a new beta to developers, iOS 16.6 beta 1, the also released iPadOS 16.6 beta 1 for the iPad. We previously heard some rumo… [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Hadlee Simons",
+            "title": "China hits back, bans chips from US company",
+            "description": "First the US banned China from buying various hardware and software products, now China is hitting back against a major US firm.",
+            "url": "https://www.androidauthority.com/china-ban-micron-us-3327428/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/01/Huawei-P50-Pro-home-screen-in-hand-2-scaled.jpg",
+            "publishedAt": "2023-05-22T06:27:55Z",
+            "content": "<ul><li>China has banned US memory chip company Micron from selling chips in the country.</li><li>Micron produces a wide variety of chips such as RAM, DRAM, and storage.</li></ul>\r\nThe Chinese tech s… [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "Sovan Mandal",
+            "title": "Moon Calendar featuring E Ink display depicts the lunar cycle",
+            "description": "Here is a Raspberry Pi creation with a truly outwardly appeal. Redditor and maker, Billydent, has crafted an extraordinary moon calendar that allows you to effortlessly track the lunar cycle from the comfort of your living room. Powered by our beloved Raspber…",
+            "url": "https://goodereader.com/blog/technology/moon-calendar-featuring-e-ink-display-depicts-the-lunar-cycle",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2023/05/22015701/e-ink-lunar-calendar.jpg",
+            "publishedAt": "2023-05-22T06:04:58Z",
+            "content": "Here is a Raspberry Pi creation with a truly outwardly appeal. Redditor and maker, Billydent, has crafted an extraordinary moon calendar that allows you to effortlessly track the lunar cycle from the… [+2583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Deals: Turtle Beach Recon 70 Wired Surround Sound Ready Gaming Headset for Xbox One and Xbox Series X|S",
+            "description": "We have an awesome deal for our readers on the Turtle Beach Recon 70 Wired Surround Sound Ready Gaming Headset for Xbox One and Xbox Series X|S in the Geeky Gadgets Deals store this week. The Recon 70 Wired Surround Sound Ready Gaming Headset is available in …",
+            "url": "https://www.geeky-gadgets.com/deals-turtle-beach-recon-70-wired-surround-sound-ready-gaming-headset-for-xbox-one-and-xbox-series-xs-22-05-2023/",
+            "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/turtle-beach.webp",
+            "publishedAt": "2023-05-22T06:00:30Z",
+            "content": "We have an awesome deal for our readers on the Turtle Beach Recon 70 Wired Surround Sound Ready Gaming Headset for Xbox One and Xbox Series X|S in the Geeky Gadgets Deals store this week.\r\nThe Recon … [+1497 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "David Delima, Siddharth Suvarna",
+            "title": "Android Phones Preinstalled With Malware That Collects Data, Injects Ads and Drains Battery: Report",
+            "description": "Guerrilla malware has been detected on over 8.9 million devices from over 50 smartphone makers, and the malicious software comes preinstalled on these phones, according to a security firm. Here's everything you need to know about the Guerrilla malware and how…",
+            "url": "https://www.gadgets360.com/mobiles/news/android-phones-guerrilla-malware-lemon-group-whatsapp-inject-ads-collect-data-4055040",
+            "urlToImage": "https://i.gadgets360cdn.com/large/android_bot_image_pixabay_andrekheren_1617802559564.jpg",
+            "publishedAt": "2023-05-22T05:57:06Z",
+            "content": "Android smartphones from various manufacturers have reportedly been found to be infected with malware out-of-the-box, affecting users from multiple countries including India, Indonesia, Mexico, Thail… [+3042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Pranav Hegde, Siddharth Suvarna",
+            "title": "Vivo V29 Pro India Launch Timeline Tipped, V29 Lite Design Renders Leaked: All Details",
+            "description": "Vivo V29 series is tipped to launch soon. The lineup is said to offer a curved display. Vivo is likely to launch the V29 Pro in India in June with a triple rear camera setup. The phone is also likely to pack a 5,000mAh battery. Meanwhile, renders of the Vivo …",
+            "url": "https://www.gadgets360.com/mobiles/news/vivo-v29-pro-lite-india-launch-timeline-june-design-specifications-4055247",
+            "urlToImage": "https://i.gadgets360cdn.com/large/Vivo_V29_Lite_5G_1684734758368.jpg",
+            "publishedAt": "2023-05-22T05:56:24Z",
+            "content": "Vivo V29 series launch timeline has leaked online. A tipster claims that Vivo will launch its upcoming V29-series smartphones as early as next month. The Vivo V29 series will launch as a successor to… [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "Sovan Mandal",
+            "title": "British parliament claim 20% VAT on audiobooks unfair and discriminatory",
+            "description": "Calls are intensifying for the Government to abolish the 20 percent tax imposed on audiobooks, as campaigners argue that it unfairly impacts individuals with visual impairments, express reported. Prominent charities, influential Conservatives, and key figures…",
+            "url": "https://goodereader.com/blog/audiobooks/british-parliament-claim-20-vat-on-audiobooks-unfair-and-discriminatory",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2023/05/22012854/audiobook.jpg",
+            "publishedAt": "2023-05-22T05:52:42Z",
+            "content": "Calls are intensifying for the Government to abolish the 20 percent tax imposed on audiobooks, as campaigners argue that it unfairly impacts individuals with visual impairments, express reported. Pro… [+2347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Radhika Parashar, Siddharth Suvarna",
+            "title": "Bitcoin, Ether Join Majority Altcoins on Loss-Making Side of Price Chart, Memecoins Trend",
+            "description": "The valuation of the overall crypto market dipped by 1.58 percent in the backdrop of Bitcoin and Ether being impacted by market volatility. Most altcoins including Solana, Polygon, and Polkadot are trading in losses. Meanwhile, memecoins DOGE and SHIB have em…",
+            "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-ether-price-today-usd-26000-most-altcoins-loss-memecoins-dogecoin-shiba-inu-pepe-coin-trend-4055224",
+            "urlToImage": "https://i.gadgets360cdn.com/large/Bitcoin_markets_eth_unsplash_large_1669185504836.jpg",
+            "publishedAt": "2023-05-22T05:50:14Z",
+            "content": "Bitcoin recorded a drop of two percent as it stepped into Monday, May 22. The most expensive cryptocurrency failed to bag any gains over the weekend, leaving its trading value to hover over the mark … [+3828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Madshrimps.be"
+            },
+            "author": "Stefan Mileschin",
+            "title": "Solo Stove fire pits are up to 45 percent off, plus the rest of this week's best tech",
+            "description": "We're still a couple of weeks away from the unofficial start to summer, but some Memorial Day sales are already popping up, including one on mostly smokeless fire pits from Solo Stoves. Discounts there range up to 45 percent. BioLite's sale takes up to 25 per…",
+            "url": "http://www.madshrimps.be/news/item/222328",
+            "urlToImage": null,
+            "publishedAt": "2023-05-22T05:50:04Z",
+            "content": "Copyright © 2001-2011 Madshrimps, All rights reserved.Graphic Design by Dennis Kestelle, Programming by Maarten Menten,\r\nOverall Site design by John Meys\r\nAll information and graphics contained in Ma… [+135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Nithya P Nair, Siddharth Suvarna",
+            "title": "Honor 90 Series Launch Set for May 29; Live Photos, Specifications Leaked",
+            "description": "Honor took to Weibo to confirm the arrival of Honor 90 series in China. The handsets will launch on May 29 and are teased to feature a triple rear camera setup, led by a 200-megapixel primary sensor. Additionally, live images and specifications of the smartph…",
+            "url": "https://www.gadgets360.com/mobiles/news/honor-90-pro-launch-date-may-29-teaser-video-specifications-design-live-images-leak-weibo-4055164",
+            "urlToImage": "https://i.gadgets360cdn.com/large/honor_90_series_weibo_1684732836773.jpg",
+            "publishedAt": "2023-05-22T05:47:23Z",
+            "content": "Honor 90 series is all set to launch in China on May 29. Honor, via its official Weibo handle, confirmed the arrival of the new 90 series smartphones last week. The lineup will include the regular Ho… [+2207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Sucharita Ganguly, Siddharth Suvarna",
+            "title": "iQoo Z7s 5G With 64-Megapixel Camera, 44W Fast Charging Launched in India: Price, Specifications",
+            "description": "iQoo Z7s 5G was launched in India on Monday with a Qualcomm Snapdragon 695 SoC, backed by a 4,500mAh battery unit with 44W wired fast charging support. The phone sports a 6.38-inch full-HD+ display panel and a 64-megapixel dual rear camera unit.",
+            "url": "https://www.gadgets360.com/mobiles/news/iqoo-z7s-5g-price-in-india-rs-18999-launch-sale-specifications-features-4055066",
+            "urlToImage": "https://i.gadgets360cdn.com/large/iqoo_z7s_5g_iqoo_1684729822165.jpg",
+            "publishedAt": "2023-05-22T05:31:39Z",
+            "content": "iQoo Z7s 5G was launched in India on Monday. The smartphone is the latest addition to the iQoo Z7 series. The company launched the iQoo Z7 5G model earlier this year, with a MediaTek Dimensity 920 So… [+2285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Reuters",
+            "title": "Australia to Regulate Buy Now, Pay Later Services as Consumer Credit Products With New Laws",
+            "description": "Australia said it would regulate buy-now-pay-later services as a consumer credit product under new laws, forcing BNPL providers to carry out background checks before lending in what would be one of the world's toughest regimes for the startup sector.",
+            "url": "https://www.gadgets360.com/internet/news/australia-regulate-buy-now-pay-later-service-consumer-credit-new-law-background-checks-4055178",
+            "urlToImage": "https://i.gadgets360cdn.com/large/afterpay_Reuters_1684733578095.jpg",
+            "publishedAt": "2023-05-22T05:31:19Z",
+            "content": "Australia said it would regulate buy-now-pay-later services as a consumer credit product under new laws, forcing BNPL providers to carry out background checks before lending in what would be one of t… [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Gene Park",
+            "title": "The genius behind Zelda is at the peak of his power — and feeling his age",
+            "description": "The genius behind Zelda is at the peak of his power — and feeling his age Eiji Aonuma designed marionettes before overseeing the wildly popular video game series. Its latest title, “Tears of the Kingdom,” has sold 10 million copies.",
+            "url": "https://www.washingtonpost.com/arts-entertainment/2023/05/20/eiji-aonuma-zelda-tears-kingdom-producer/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N4KPVLSVFFSNAAGN2RAFHKUZIE_size-normalized.JPG&w=1440",
+            "publishedAt": "2023-05-22T04:31:26Z",
+            "content": "Comment on this story\r\nComment\r\nNEW YORK Eiji Aonuma is tired.\r\nHes played The Legend of Zelda: Tears of the Kingdom 20 times over the past few years, to test early versions of the title he oversaw a… [+10065 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Reuters",
+            "title": "Instagram Back Up After Global Outage Hits Over 1,80,000 Users; Company Blames ‘Technical Issue’",
+            "description": "\"Earlier today, a technical issue caused some people to have trouble accessing Instagram. We resolved the issue as quickly as possible for everyone who was impacted,\" a Meta spokesperson told Reuters.",
+            "url": "https://www.gadgets360.com/apps/news/instagram-meta-back-up-global-outage-technical-issue-affecting-users-downdetector-4055038",
+            "urlToImage": "https://i.gadgets360cdn.com/large/instagram_age_verification_reuters_1655984852674.jpg",
+            "publishedAt": "2023-05-22T04:21:04Z",
+            "content": "Meta Platform's Instagram was back up for most users, the company said on Sunday, after a technical issue that disrupted services to thousands of people had been resolved.\r\n\"Earlier today, a technica… [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pldthome.com"
+            },
+            "author": "Karess Rubrico",
+            "title": "5 Smart Health and Kitchen Gadgets You Didn’t Know Existed",
+            "description": "5 Smart Health and Kitchen Gadgets You Didn’t Know Existedpldthome.com",
+            "url": "https://pldthome.com/nextupgrade/inner/smart-home/2023/05/19/5-smart-health-and-kitchen-gadgets-you-didn-t-know-existed",
+            "urlToImage": "http://pldthome.com/images/librariesprovider2/blog_images/ab_smart-kitchen-gadgets-you-didn-t-know-you-needed.jpg?sfvrsn=39157a0c_1",
+            "publishedAt": "2023-05-22T04:01:22Z",
+            "content": "The smart home ecosystem is ever-expanding, more so in the kitchen–you can always do things more innovatively and efficiently as it relates to food. Check out some smart kitchen upgrades we’ve discov… [+4031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "apps to make money on",
+            "title": "Comment on Motorola Xoom Stock firmware SBF file leaks and then plugged by apps to make money on",
+            "description": "... [Trackback]\n\n[...] Find More here on that Topic: goodereader.com/blog/tablet-slates/motorola-xoom-stock-firmware-sbf-file-leaks-and-then-plugged [...]",
+            "url": "https://goodereader.com/blog/tablet-slates/motorola-xoom-stock-firmware-sbf-file-leaks-and-then-plugged",
+            "urlToImage": null,
+            "publishedAt": "2023-05-22T00:24:57Z",
+            "content": "The Motorola XOOM stock SBF file had somehow made it to the open. Before you start scratching your head as to what on earth that means, here it is in lay man terms. It is the piece of software that w… [+975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WWD"
+            },
+            "author": "Adam Mansuroglu",
+            "title": "A Comprehensive Guide to the Mermaidcore Aesthetic for Summer 2023",
+            "description": "Deep dive into the viral trend that has legs to stand on.",
+            "url": "https://wwd.com/shop/shop-fashion/mermaidcore-aesthetic-1235656992/",
+            "urlToImage": "https://wwd.com/wp-content/uploads/2023/05/mermaidcore-aesthetic-mermaid-trend-fashion-beauty.jpg?w=1000",
+            "publishedAt": "2023-05-21T21:58:10Z",
+            "content": "If you purchase an independently reviewed product or service through a link on our website, WWD may receive an affiliate commission.\r\nFashion trends ebb and flow like the ocean’s tide. However, Tikto… [+24789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "Sovan Mandal",
+            "title": "Good e-Reader X Bigme Galy with Gallery 3 display: The best 8-inch e-note? A Review",
+            "description": "Of all the e-note devices that the Chinese company Bigme has to offer, the Bigme Galy is special in that it happens to be the first in the world to feature the revolutionary new Gallery 3 display. Developed in partnership with Good e-Reader, the Galy offers a…",
+            "url": "https://goodereader.com/blog/tablet-slates/good-e-reader-x-bigme-galy-with-gallery-3-display-the-best-8-inch-e-note-a-review",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2023/05/21171456/P1160060-scaled.jpg",
+            "publishedAt": "2023-05-21T21:21:21Z",
+            "content": "Of all the e-note devices that the Chinese company Bigme has to offer, the Bigme Galy is special in that it happens to be the first in the world to feature the revolutionary new Gallery 3 display. De… [+9385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "apps that pay you",
+            "title": "Comment on Unihertz teases new BlackBerry Key2-like smartphone for launch soon by apps that pay you",
+            "description": "... [Trackback]\n\n[...] Here you will find 67148 more Information to that Topic: goodereader.com/blog/smartphones/unihertz-teases-new-blackberry-key2-like-smartphone-for-launch-soon [...]",
+            "url": "https://goodereader.com/blog/smartphones/unihertz-teases-new-blackberry-key2-like-smartphone-for-launch-soon",
+            "urlToImage": "https://assets.goodereader.com/blog/uploads/images/2022/04/11024131/upcoming-unihertz-blackberry-phone.jpeg",
+            "publishedAt": "2023-05-21T20:35:55Z",
+            "content": "With chances of a BlackBerry-branded phone getting launched being all but over, here is something that comes closest to offering a similar feel and functionality as the real thing. Unihertz has alrea… [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "mirrornews@mirror.co.uk (Benedict Tetzlaff-Deas)",
+            "title": "Five basic mistakes we make that will shorten the life of our expensive devices",
+            "description": "There are five 'deadly' sins that can seriously shorten the life of your electronic devices, but thankfully there's a number of things you can do to keep the tech gremlins at bay",
+            "url": "https://www.mirror.co.uk/tech/five-basic-mistakes-make-shorten-30037371",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article30037777.ece/ALTERNATES/s1200/1_Woman-charging-power-to-smart-phone.jpg",
+            "publishedAt": "2023-05-21T20:00:50Z",
+            "content": "Tech experts have revealed basic mistakes that can seriously shorten the lifespan of electronic devices - and we can guarantee you've done at least one of them.\r\n Though it seems like our gadgets can… [+3906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Danie Conradie",
+            "title": "Pill Dispenser To Keep You On Track",
+            "description": "When forgetting to take medication on time can lead to a bad day or night, having a helper to keep you on track can greatly improve your life. [M. Bindhammer] faces this scenario every day, so he b…",
+            "url": "https://hackaday.com/2023/05/21/pill-dispenser-to-keep-you-on-track/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/05/pill_dispenser_featured.jpg",
+            "publishedAt": "2023-05-21T20:00:00Z",
+            "content": "When forgetting to take medication on time can lead to a bad day or night, having a helper to keep you on track can greatly improve your life. [M. Bindhammer] faces this scenario every day, so he bui… [+1185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Brooklynblonde.com"
+            },
+            "author": "Helena",
+            "title": "Weekend Notes: May 20th",
+            "description": "Hard to believe we're in the last weekend before Memorial Day. After an incredibly social week, we drove up to our lake house to slow down and reset for the weekend. I don't think I've had this many activities on the social calendar in years and quite honestl…",
+            "url": "https://www.brooklynblonde.com/weekend-notes-may-20th/",
+            "urlToImage": "https://www.brooklynblonde.com/wp-content/uploads/2023/05/Tezza-1803-scaled-e1684698799914-768x1024.jpg",
+            "publishedAt": "2023-05-21T19:56:14Z",
+            "content": "Zip Through | Pants (wearing a small in both) | Sneakers (sold out, but these are similar) \r\nHard to believe we’re in the last weekend before Memorial Day. After an incredibly social week, we drove u… [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "The urgent PayPal email scam you can't afford to ignore",
+            "description": "The Federal Trade Commission issued warnings about phishing emails from PayPal and Metamask. Kurt \"CyberGuy\" Knutssons shows you how to keep data safe.",
+            "url": "https://www.foxnews.com/tech/urgent-paypal-email-scam-afford-ignore",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-The-urgent-PayPal-email-scam-you-cant-afford-to-ignore.jpg",
+            "publishedAt": "2023-05-21T18:43:12Z",
+            "content": "In a world where digital deception is as common as pigeons in a city square, urgent emails from familiar names like PayPal or the Crypto wallet website MetaMask might seem like something you should p… [+6489 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Free digital perks you may be missing out on by not having a library card",
+            "description": "Some local libraries offer services you may not be aware of, and Kurt \"CyberGuy\" Knutsson lists some of the best apps to access these free digital perks.",
+            "url": "https://www.foxnews.com/tech/free-digital-perks-may-missing-having-library-card",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-LIBBY.jpg",
+            "publishedAt": "2023-05-21T18:19:45Z",
+            "content": "You may think a visit to your local library isn't worth your time now with devices like Kindles to read all our favorite books.  The truth is that if you are strolling through life without a library … [+5841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Punch"
+            },
+            "author": "Anozie Egole",
+            "title": "FG boosts maritime safety with 14 boats, others",
+            "description": "The Federal Government on Sunday, commissioned 14 enforcement and security boats as well as other infrastructures belonging to the Nigerian Maritime Administration and Safety Agency. These facilities were part of the $195m deep blue projects aimed at enhancin…",
+            "url": "https://punchng.com/fg-boosts-maritime-safety-with-14-boats-others/",
+            "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2022/06/09031311/NIMASA.png",
+            "publishedAt": "2023-05-21T17:14:55Z",
+            "content": "The Federal Government on Sunday, commissioned 14 enforcement and security boats as well as other infrastructures belonging to the Nigerian Maritime Administration and Safety Agency.\r\nThese facilitie… [+3775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Christine McKee)",
+            "title": "Deals: $269 9th-gen iPad, $500 off M1 13-inch MacBook Pro, $245 iRobot Roomba",
+            "description": "Today's top deals include a $399 10th-gen iPad, $15 off the MagSafe Battery Pack, and 25% off a Canon PIXMA TS3520 printer.Get $500 off an M1 13-inch MacBook ProThe AppleInsider team scours the internet for unbeatable discounts at ecommerce stores to develop …",
+            "url": "https://appleinsider.com/articles/23/05/21/deals-269-9th-gen-ipad-500-off-m1-13-inch-macbook-pro-245-irobot-roomba",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/54517-110163-Deals-May-21-xl.jpg",
+            "publishedAt": "2023-05-21T16:19:21Z",
+            "content": "Get $500 off an M1 13-inch MacBook Pro\r\nToday's top deals include a $399 10th-gen iPad, $15 off the MagSafe Battery Pack, and 25% off a Canon PIXMA TS3520 printer. \r\nThe AppleInsider team scours the … [+1268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Rita El Khoury",
+            "title": "I wish more smart home products did what this air purifier does",
+            "description": "The Levoit Core 400S is a good air purifier with excellent smart home integrations. No more guessing what to tell Google or Alexa to control it!",
+            "url": "https://www.androidauthority.com/levoit-core-400s-smart-home-3326961/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/levoit-core-400s-air-purifier-with-vesync-android-app-scaled.jpg",
+            "publishedAt": "2023-05-21T16:00:21Z",
+            "content": "Ive spent the past four years coughing I did it way before COVID made it cool and after a lot of failed wishful thinking to make it go away, I ended up at a pulmonologist being diagnosed with asthma.… [+3693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Brad Moon, Senior Contributor, \n Brad Moon, Senior Contributor\n https://www.forbes.com/sites/bradmoon/",
+            "title": "One-Year Review: Aiper Seagull 1500 Robotic Pool Cleaner",
+            "description": "With another pool season kicking off, it’s time for an update on the Aiper Seagull 1500 robotic pool cleaner, one year after its initial test.",
+            "url": "https://www.forbes.com/sites/bradmoon/2023/05/21/one-year-review-aiper-seagull-1500-robotic-pool-cleaner/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/646a36fcfe922fc8e800fd8a/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-21T15:31:46Z",
+            "content": "I dont do many revisits to products that I have already reviewed. A speaker that sounds good at the time of testing is almost certainly going to sound just as good a year later.\r\nHowever, a robotic p… [+5355 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ieee.org"
+            },
+            "author": "Robert Gobron",
+            "title": "Flat Lenses Made of Nanostructures Transform Tiny Cameras and Projectors",
+            "description": "Inside today’s computers, phones, and other mobile devices, more and more sensors, processors, and other electronics are fighting for space. Taking up a big part of this valuable real estate are the cameras—just about every gadget needs a camera, or two, thre…",
+            "url": "https://spectrum.ieee.org/metalens-2660294513",
+            "urlToImage": "https://spectrum.ieee.org/media-library/a-gray-scale-photograph-showing-pillars-of-varying-diameters-in-an-array.png?id=33703173&width=1200&height=600&coordinates=0%2C60%2C0%2C61",
+            "publishedAt": "2023-05-21T15:00:10Z",
+            "content": "Inside todays computers, phones, and other mobile devices, more and more sensors, processors, and other electronics are fighting for space. Taking up a big part of this valuable real estate are the c… [+15280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Milica Cosic",
+            "title": "Travel expert reveals seven top tips when flying with overhead luggage",
+            "description": "Thanks to baggage tax, Brits may find they're limited with what they can pack for their summer holidays. So travel experts have shared the seven ways travelers can avoid the extra baggage fees.",
+            "url": "https://www.dailymail.co.uk/travel/article-12084917/Travel-expert-reveals-seven-tips-flying-overhead-luggage.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/05/15/13/71001957-0-image-a-7_1684153230933.jpg",
+            "publishedAt": "2023-05-21T14:16:16Z",
+            "content": "Its a Mexican stand-off with the airline steward and you blink first. Now the overhead bag you hoped would go unnoticed is heading straight for the baggage-tester.\r\nYour heart sinks as the bloated su… [+5290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "sendicott47@outlook.com (Sean Endicott)",
+            "title": "Microsoft News Roundup: Activision Blizzard deal approved by EU, Bing Chat changes, Mortal Kombat 1, and more",
+            "description": "The EU approving the purchase of Activision Blizzard and the official announcement of Mortal Kombat 1 are just some of this week's biggest stories.",
+            "url": "https://www.windowscentral.com/microsoft/microsoft-news-roundup-activision-blizzard-deal-approved-by-eu-bing-chat-changes-mortal-kombat-1-and-more",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bgUZBUD8KuBQskDKgVBKhH-1200-80.jpg",
+            "publishedAt": "2023-05-21T13:00:00Z",
+            "content": "Another week has whizzed by. That means more Microsoft news to catch up on. This week the EU approved Microsoft's purchase of Activision Blizzard, Bing Chat got some major upgrades, and Windows 11 us… [+7403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indiancatholicmatters.org"
+            },
+            "author": "Team ICM",
+            "title": "Call to Catholic Communicators: Speak with the Heart",
+            "description": "By Fr Cedric Prakash SJ – The Catholic Church observes the 57th World Day of Social Communications on 21 May 2023. For India, this day\nThe post Call to Catholic Communicators: Speak with the Heart appeared first on Indian Catholic Matters.",
+            "url": "https://www.indiancatholicmatters.org/call-to-catholic-communicators-speak-with-the-heart/",
+            "urlToImage": "https://www.indiancatholicmatters.org/wp-content/uploads/2023/05/Communications.png",
+            "publishedAt": "2023-05-21T12:59:55Z",
+            "content": "By Fr Cedric Prakash SJ –\r\nThe Catholic Church observes the 57th World Day of Social Communications on 21 May 2023. For India, this day coincides with the Feast of the Ascension of Our Lord, which ad… [+11691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techpowerup.com"
+            },
+            "author": "TheLostSwede",
+            "title": "This Week in Gaming (Week 21)",
+            "description": "To call this a busy week of game releases would be an understatement and there should be something for everyone except those that want a new sports or racing game of some kind. This week's AAA title is all about precious things, but we also have games coverin…",
+            "url": "https://www.techpowerup.com/308897/this-week-in-gaming-week-21",
+            "urlToImage": "https://www.techpowerup.com/img/de9VUQtx4eZ4aCMO.jpg",
+            "publishedAt": "2023-05-21T12:19:30Z",
+            "content": "To call this a busy week of game releases would be an understatement and there should be something for everyone except those that want a new sports or racing game of some kind. This week's AAA title … [+3413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Kim Komando",
+            "title": "I'm a tech expert. These dumb mistakes we're all guilty of kill your expensive devices",
+            "description": "Tech expert Kim Komando, based in Arizona, has revealed her top tips for extending the lifespan of your expensive phone, computer or other tech gadget.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-12103055/Im-tech-expert-dumb-mistakes-guilty-kill-expensive-devices.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/05/19/21/70085695-0-image-a-90_1684528160748.jpg",
+            "publishedAt": "2023-05-21T11:56:35Z",
+            "content": "You wouldn't buy a nice car and skip oil changes. So why do we treat our tech so badly?\r\nIf you want your expensive phone, computer and all the rest to last, keep reading.\r\nDon't fall into the (bad) … [+4203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Classiccars.com"
+            },
+            "author": "news@motorauthority.com (ClassicCars.com), ClassicCars.com",
+            "title": "Collecting Cavaliers: Detroit enthusiast embraces 1980s General Motors cars",
+            "description": "While just about everyone can appreciate a pristine Bel Air, a barn-find Mustang Mach 1, or an unmodified Supra, what about the common-yet-underappreciated vehicle models that somehow survived the test of time? I recently came across a wintertime photo taken …",
+            "url": "https://journal.classiccars.com/2023/05/13/collecting-cavaliers-detroit-enthusiast-embraces-1980s-general-motors-cars/",
+            "urlToImage": "https://images.hgmsites.net/hug/1982-chevrolet-cavalier_100885589_h.jpg",
+            "publishedAt": "2023-05-21T10:00:00Z",
+            "content": "While just about everyone can appreciate a pristine Bel Air, a barn-find Mustang Mach 1, or an unmodified Supra, what about the common-yet-underappreciated vehicle models that somehow survived the te… [+9932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "mirrornews@mirror.co.uk (Kieren Williams)",
+            "title": "Amazon Prime makes major change to Morrisons online orders leaving shoppers fuming",
+            "description": "Customers took to social media to complain after Amazon made a big change to their Morrisons online orders that saw the minimum basket price for free delivery increased",
+            "url": "https://www.mirror.co.uk/money/amazon-prime-makes-major-change-30034263",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article30034326.ece/ALTERNATES/s1200/0_App-Illustrations.jpg",
+            "publishedAt": "2023-05-21T09:51:23Z",
+            "content": "Amazon has made a major change to their supermarket online orders, leaving some customers furious.\r\nAmazon Prime has become a staple feature of many Brits shopping habits, giving them the ultimate co… [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "IANS",
+            "title": "The sight of pink makes them see red",
+            "description": "In Lucknow, all medium and small shopkeepers have stopped accepting Rs 2,000 notes on the excuse that they do not have the change. It is only the multi-brand showrooms that are accepting the Rs 2,000 notes.",
+            "url": "https://economictimes.indiatimes.com/news/india/the-sight-of-pink-makes-them-see-red/articleshow/100395421.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-100395434,width-1070,height-580,imgsize-130710,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-05-21T09:24:38Z",
+            "content": "The acceptability of pink notes in the denomination of Rs 2,000 has come down drastically after the government decided to withdraw them from circulation and gave a four-month window for the same.In L… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alex Hern",
+            "title": "Mark Zuckerberg’s metaverse vision is over. Can Apple save it?",
+            "description": "The CEO of the social media giant has spent billions on his virtual reality dream – and still no one understands the idea. Now the world’s richest firm could change the gameIn Meta’s quarterly earnings call in April, chief executive Mark Zuckerberg was on the…",
+            "url": "https://www.theguardian.com/technology/2023/may/21/mark-zuckerbergs-metaverse-vision-is-over-can-apple-save-it",
+            "urlToImage": "https://i.guim.co.uk/img/media/fa89b2294adb8c59cda11369c0dd64e51ff432ba/0_12_5948_3570/master/5948.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=332d6f924c308e4c28a02f31fa667a08",
+            "publishedAt": "2023-05-21T09:00:22Z",
+            "content": "In Metas quarterly earnings call in April, chief executive Mark Zuckerberg was on the defensive. The metaverse, the vision of a globe-spanning virtual reality that he had literally bet his multibilli… [+9203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AllAfrica - Top Africa News"
+            },
+            "author": null,
+            "title": "Nigeria: Presidential Poll - Atiku, Obi to Call 150 Witnesses Against Tinubu",
+            "description": "[Leadership] Presidential candidates of the Peoples Democratic Party, Atiku Abubakar and that of Labour Party, Peter Obi, have told the Presidential Election Petition Court sitting in Abuja that they would be calling a total of 150 witnesses to challenge the …",
+            "url": "https://allafrica.com/stories/202305210051.html",
+            "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+            "publishedAt": "2023-05-21T06:42:56Z",
+            "content": "Presidential candidates of the Peoples Democratic Party, Atiku Abubakar and that of Labour Party, Peter Obi, have told the Presidential Election Petition Court sitting in Abuja that they would be cal… [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Amanda Davis",
+            "title": "27 Pet Products That'll Actually Complement Your Home Decor",
+            "description": "Adiós to the tacky paw prints and fish bone patterns you used to know.View Entire Post ›",
+            "url": "https://www.buzzfeed.com/amandadavis3/pet-products-thatll-actually-complement-your-home-decor",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-05/16/19/enhanced/a87793e1e54c/original-1259-1684265345-4.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2023-05-21T05:07:23Z",
+            "content": "It comes with a removable stainless steel bowl for easy cleaning *and* sends you real-time low food alerts!\r\nNooie is a family-owned small business that provides stylish smart home gadgets including … [+886 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "NYT News Service",
+            "title": "Jeff Bezos' massive new $500 mn yacht, Koru, is finally ready to set sail",
+            "description": "With three masts and an on-deck pool, Koru is the world's largest sailing yacht at 417 feet, costing an estimated $500m to build. The boat is propelled mainly by wind, conferring eco credentials, and will be trailed by the 246-foot motor yacht Abeona, which w…",
+            "url": "https://economictimes.indiatimes.com/news/international/world-news/jeff-bezos-new-500-mn-yacht-koru-is-finally-ready-to-set-sail/articleshow/100389083.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-100389129,width-1070,height-580,imgsize-81906,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-05-21T02:10:02Z",
+            "content": "Just in time for the high season of yachting in the Mediterranean, when multimillion-dollar megayachts descend on ports such as Monte Carlo and St. Tropez, Amazon founder Jeff Bezos has been photogra… [+5068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PC Gamer"
+            },
+            "author": "ted.litchfield@futurenet.com (Ted Litchfield)",
+            "title": "Is life with multiple monitors actually better?",
+            "description": "I can only get work done if I'm being soothed by an hour-long video of an in-game rave from FF14 on my second monitor.",
+            "url": "https://www.pcgamer.com/is-life-with-multiple-monitors-actually-better/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/RVKy6tTS7Qub3Sq3s9y8Td-1200-80.jpg",
+            "publishedAt": "2023-05-20T22:43:39Z",
+            "content": "I remember the days of CRT monitors—beefy, chunky behemoths that made it so all but the most dedicated of warrior monks were one and done when it came to computer monitors. Now though, I feel like yo… [+13968 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Heather Braga",
+            "title": "32 Gadgets You Won't Regret Spending Over $100 On",
+            "description": "There are three different kinds of coffee machines in here that *might* just make you crave your at-home concoctions instead of ones from your go-to spot.View Entire Post ›",
+            "url": "https://www.buzzfeed.com/hbraga/gadgets-over-100",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-05/10/16/enhanced/7eb6dcb339a2/original-1083-1683735753-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+            "publishedAt": "2023-05-20T21:11:40Z",
+            "content": "As a new mom Im quickly learning what items are a necessity in my day-to-day, one of them absolutely being the Baby Brezza Sterilizer. \r\nAs an infant my baby boy was going through about 12 bottles th… [+1076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Bethan Moorcraft",
+            "title": "A Target employee says she only got a measly 2% raise — after 5 years of working there. How to keep up with inflation even if your paycheck hasn't",
+            "description": "Retail workers are feeling the pinch of inflation.",
+            "url": "https://finance.yahoo.com/news/target-employee-says-she-only-163000925.html",
+            "urlToImage": "https://media.zenfs.com/en/moneywise_327/6f7a1ddb97cd56ab6de62ec938e733c6",
+            "publishedAt": "2023-05-20T16:30:00Z",
+            "content": "A Target employee says she only got a measly 2% raise after 5 years of working there. How to keep up with inflation even if your paycheck hasn't\r\nEmployees of retail giant Target have turned to TikTo… [+5452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mactrast.com"
+            },
+            "author": "Chris Hauk",
+            "title": "Mactrast Deals: UPDF Pro: Lifetime Subscription",
+            "description": "UPDF Pro allows you to edit any document across Windows, Mac OS X, iOS, and Android devices. You can add or delete texts and edit their font, color, and size.Read More...",
+            "url": "https://www.mactrast.com/2023/05/mactrast-deals-updf-pro-lifetime-subscription-2/",
+            "urlToImage": "https://www.mactrast.com/wp-content/uploads/2022/11/UPDF-Pro-1.jpeg",
+            "publishedAt": "2023-05-20T15:07:44Z",
+            "content": "UPDF, the all-in-one PDF solution for individuals and enterprises!\r\nUPDF allows you to edit any document across Windows, Mac OS X, iOS, and Android devices. You can add or delete texts and edit their… [+4600 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Gadgeteer"
+            },
+            "author": "James Garriss",
+            "title": "Troubadour Embark Duffle Bag review – when ordinary is not good enough",
+            "description": "REVIEW – When I travel, I already have a couple good suitcases to carry what I need.  Sometimes, however, they are too much space—think overnight trip—and at other times they are not quite enough, like when I travel to a conference for the week.  For times li…",
+            "url": "https://the-gadgeteer.com/2023/05/20/troubadour-embark-duffle-bag-review-when-ordinary-is-not-good-enough/",
+            "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2023/04/troubadour-embark-16.jpg",
+            "publishedAt": "2023-05-20T14:30:43Z",
+            "content": "We use affiliate links. If you buy something through the links on this page, we may earn a commission at no cost to you. Learn more.\r\nREVIEW When I travel, I already have a couple good suitcases to c… [+8874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneysavingmom.com"
+            },
+            "author": "Meagan",
+            "title": "*HOT* Dyson Ball Animal 3 Extra Vacuum for just $379.98 shipped! (Reg. $500)",
+            "description": "RUN to get this HOT Dyson Vacuum deal, today only! Today only, QVC has this Dyson Ball Animal 3 Extra Vacuum on sale for $389.98 shipped! Plus, you can use code SURPRISE as a new customer on your first order to get an extra $10 off — making it just $379.98 sh…",
+            "url": "https://moneysavingmom.com/hot-dyson-ball-animal-3-extra-vacuum-deal/",
+            "urlToImage": "https://img.moneysavingmom.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-20-at-10.10.04-AM-630x879.png",
+            "publishedAt": "2023-05-20T14:19:26Z",
+            "content": "RUN to get this HOT Dyson Vacuum deal, today only!\n\n\n\n\r\n\n\n\nToday only, QVC has this Dyson Ball Animal 3 Extra Vacuum on sale for $389.98 shipped! Plus, you can use code SURPRISE as a new customer on … [+824 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "Don’t fall for this sneaky notification that’s fooling people on Facebook and Instagram",
+            "description": "Protect yourself from sneaky notifications and on-going potential cybercrimes from several social media platforms such as Facebook, Instagram and TikTok.",
+            "url": "https://www.foxnews.com/tech/dont-fall-sneaky-notification-fooling-people-facebook-instagram",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-Don’t-fall-for-this-sneaky-notification-that’s-fooling-people-on-Facebook-and-Instagram-smishing_scam-2.jpg",
+            "publishedAt": "2023-05-20T14:05:58Z",
+            "content": "In this fast-digital era we live in, protecting ourselves from online dangers has sadly become an important part of our everyday lives. Also, with the ever-changing landscape of social media platform… [+6581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+            "title": "AirTag To Nomad, Sony To Kindle: The 25 Best Tech Essentials For Travel",
+            "description": "There's enough to think of when you're about to travel. So, to ensure you don't forget a tech essential, read about the best headphones, cables, and more. Happy travels.",
+            "url": "https://www.forbes.com/sites/davidphelan/2023/05/20/airtag-to-nomad-sony-to-kindle-the-25-best-tech-essentials-for-traveling/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6468ce86d4b9c8aca6355c45/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-05-20T14:00:53Z",
+            "content": "Don't leave home without them: AirTag, Sony WH-1000XM5, Kindle Paperwhite.\r\nApple, Sony, Amazon\r\nYouve booked your flight, your passports up-to-date and the sunscreen is packed already. But, these da… [+21816 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Kurt Knutsson, CyberGuy Report",
+            "title": "AI-powered robot mower cuts your lawn as you sit back",
+            "description": "Kurt \"The CyberGuy\" Knutsson reviews the LawnMeister, an AI-powered lawn mower that does the work for you and has other features to make your yard look neat.",
+            "url": "https://www.foxnews.com/tech/ai-powered-robot-mower-cuts-lawn-sit-back",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/1-AI-powered-robot-mower-cuts-your-lawn-as-you-sit-back_ad.jpg",
+            "publishedAt": "2023-05-20T13:58:15Z",
+            "content": "When the Roomba was first released, I was ecstatic. The idea of having this cute little robot do a chore that I absolutely hated was such a treat. I even gave it a name so that whenever it missed a s… [+4286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Himani Jha, Richa Sharma",
+            "title": "Xiaomi Civi 3 Spotted on Geekbench Listing; Could Launch in China Soon: All Details",
+            "description": "Xiaomi Civi 2, which debuted last year in China, is all set to get a successor. The Chinese smartphone company confirmed the launch of Xiaomi Civi 3 as well as the information on its processor via a Weibo Post sometime back. Now, the smartphone has been spott…",
+            "url": "https://www.gadgets360.com/mobiles/news/xiaomi-civi-3-geekbench-performance-test-launch-specifications-listing-report-4051914",
+            "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_civi_2_hello_kitty_edition_1664275896465.jpg",
+            "publishedAt": "2023-05-20T13:35:18Z",
+            "content": "Xiaomi Civi 2, which debuted last year in China, is all set to get a successor. The Chinese smartphone company confirmed the launch of Xiaomi Civi 3 as well as the information on its processor via a … [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "greenapplesgarden.com",
+            "title": "Comment on Where to Buy the Sony 13.3 inch Digital Paper e-Reader by greenapplesgarden.com",
+            "description": "... [Trackback]\n\n[...] Find More Information here on that Topic: goodereader.com/blog/electronic-readers/where-to-buy-the-sony-13-3-inch-digital-paper-e-reader [...]",
+            "url": "https://goodereader.com/blog/electronic-readers/where-to-buy-the-sony-13-3-inch-digital-paper-e-reader",
+            "urlToImage": null,
+            "publishedAt": "2023-05-20T13:13:13Z",
+            "content": "The Sony Digital Paper is a masterful product by Sony and in traditional fashion the best gadgets out there are hard to find.  One of the downsides about Sonys North American distribution strategy is… [+1692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Himani Jha, Richa Sharma",
+            "title": "Oppo Reno 10 Pro+ Images Leaked Ahead of May 24 Launch, Oppo K11x Design Tipped: All Details",
+            "description": "Oppo Reno 10 series is all set to make its debut in China on May 24. The company has confirmed the launch via its official China website. The company has also revealed some of the design and specifications of the high-end variant Oppo Reno 10 Pro+ on its land…",
+            "url": "https://www.gadgets360.com/mobiles/news/oppo-reno-10-pro-plus-k11x-design-renders-images-leaked-confirmed-may-24-launch-4051827",
+            "urlToImage": "https://i.gadgets360cdn.com/large/oppo_reno_10_series_1684314127842.jpg",
+            "publishedAt": "2023-05-20T13:03:14Z",
+            "content": "Oppo Reno 10 series is all set to make its debut in China on May 24. The company has confirmed the launch of the lineup, which includes Oppo Reno 10, Oppo Reno 10 Pro, and Oppo Reno 10 Pro+, via its … [+2276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Daily deals: $729 Apple Watch Ultra, 15% off DJI Air 2S, $117 Flexispot standing desk, more",
+            "description": "Today's top bargains include discounts on Razer products, 11% off the iPad Air, and an $85 Apple Pencil Gen 2.Get an Apple Watch Ultra for $729. The AppleInsider team combs the web for amazing deals at online retailers to curate a list of top-notch bargains o…",
+            "url": "https://appleinsider.com/articles/23/05/20/daily-deals-729-apple-watch-ultra-15-off-dji-air-2s-117-flexispot-standing-desk-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/54511-110129-deals-may-30-xl.jpg",
+            "publishedAt": "2023-05-20T12:38:42Z",
+            "content": "Get an Apple Watch Ultra for $729. \r\nToday's top bargains include discounts on Razer products, 11% off the iPad Air, and an $85 Apple Pencil Gen 2. \r\nThe AppleInsider team combs the web for amazing d… [+2662 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Aima Zaheer",
+            "title": "Top 20 Most Popular Consumer Electronics Brands",
+            "description": "In this article, we will take a look at the top 20 most popular consumer electronics brands. If you want to see more brands in this selection, go to the Top ...",
+            "url": "https://finance.yahoo.com/news/top-20-most-popular-consumer-122351505.html",
+            "urlToImage": "https://media.zenfs.com/en/insidermonkey.com/daa8d5ca53325d9684b977feb018e94f",
+            "publishedAt": "2023-05-20T12:23:51Z",
+            "content": "In this article, we will take a look at the top 20 most popular consumer electronics brands. If you want to see more brands in this selection, go to the Top 5 Most Popular Consumer Electronics Brands… [+17235 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "NYT News Service",
+            "title": "Jeff Bezos' new yacht is finally ready to set sail",
+            "description": "Bezos' vessel is a sailing yacht, a departure from the diesel-powered, floating palaces popular with other billionaires. But it is still massive. At 417 feet, Koru is the world's largest sailing yacht, according to Boat International, and it cost an estimated…",
+            "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-new-yacht-is-finally-ready-to-set-sail/articleshow/100380498.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-100380718,width-1070,height-580,imgsize-631576,overlay-ettech/photo.jpg",
+            "publishedAt": "2023-05-20T12:05:30Z",
+            "content": "Just in time for the high season of yachting in the Mediterranean, when multimillion-dollar megayachts descend on ports such as Monte Carlo and St. Tropez, Amazon founder Jeff Bezos has been photogra… [+5134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "David Gewirtz",
+            "title": "This Ring camera hack helps me keep a close eye on my most dangerous tech",
+            "description": "In one room I have a robot-controlled laser beam that can slice through most materials. And in another, I have a robot-controlled spinning wheel of death.",
+            "url": "https://www.zdnet.com/article/this-ring-camera-hack-helps-me-keep-a-close-eye-on-my-most-dangerous-tech/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/e05c61a99bb1079124dec23f5f53de9189506605/2023/05/17/4e08c84a-4a81-4444-9e87-100cff404b23/cnc.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-05-20T11:45:00Z",
+            "content": "David Gewirtz/ZDNET\r\nIn medicine, the term \"off-label\" is used when a doctor prescribes a drug for a reason or in a manner not specifically intended by the manufacturer nor appoved by the FDA. When d… [+8197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Adrian Kingsley-Hughes",
+            "title": "Why you need a batteryless jump starter (and how it works)",
+            "description": "Unlike many jump starters on the market, this one doesn't need to be regularly charged. Here's how it works.",
+            "url": "https://www.zdnet.com/home-and-office/why-you-need-a-batteryless-jump-starter-and-how-it-works/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/4c4d151b6860a9e657cf9abbdb5a84f8d1136af9/2023/04/23/eadf6b96-ec3c-4ef5-9589-579bf6544690/img-3017.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-05-20T11:30:00Z",
+            "content": "A batteryless jump starter is maintenance-free and needs no charging prior to use.\r\nAdrian Kingsley-Hughes/ZDNET\r\nCar troubles strike when you least expect them, and the three most common reasons to … [+3703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "feedfeeder",
+            "title": "13 Best Deals: Air Fryers, Sound Machines, and Camera Gear",
+            "description": "Prepare for a busy summer ahead with discounts on our favorite gadgets.",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=170985355",
+            "urlToImage": null,
+            "publishedAt": "2023-05-20T11:12:04Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Brenda Stolyar",
+            "title": "13 Best Deals: Air Fryers, Sound Machines, and Camera Gear",
+            "description": "Prepare for a busy summer ahead with discounts on our favorite gadgets.",
+            "url": "https://www.wired.com/story/weekend-deals-may-20-2023/",
+            "urlToImage": "https://media.wired.com/photos/64681a4175bc0bfdef4f285a/191:100/w_1280,c_limit/Ninja-Speedi-Gear-Update.jpg",
+            "publishedAt": "2023-05-20T11:00:00Z",
+            "content": "summer is quickly approaching. And while it's a season meant for rest, relaxation, and soaking up the rays, it can also become extremely hectic. Most of us are attempting to squeeze in as many backya… [+6427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Himani Jha, Richa Sharma",
+            "title": "Samsung Galaxy A14 4G Tipped to Launch in India Soon; Price Leaked: Report",
+            "description": "Samsung Galaxy A14 4G could be launched soon in India. A recent report has tipped the launch timeline in India as well as the phone’s price and storage options. The handset was already unveiled in Malaysia in March 2023. There, it sports a 6.6-inch (1,080x2,4…",
+            "url": "https://www.gadgets360.com/mobiles/news/samsung-a14-4g-launch-in-india-timeline-leaked-price-specifications-galaxy-4051274",
+            "urlToImage": "https://i.gadgets360cdn.com/large/samsung_galaxy_a14_samsung_1678950382499.jpg",
+            "publishedAt": "2023-05-20T09:47:44Z",
+            "content": "Samsung Galaxy A14 4G could be launched soon in India as the latest addition to Samsung's budget-friendly Galaxy A series. Though the company is yet to reveal anything, a recent report has tipped the… [+2170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hplusmagazine.com"
+            },
+            "author": "abhishek",
+            "title": "1xbet Sport Bet App Along With Professionals",
+            "description": "1xbet Sport Bet App Along With Professionals You want to pick the tactic through which you wish to withdraw your winnings. Again there is a minimum amount for all of the fee strategies listed on the website. After verifying the...",
+            "url": "https://hplusmagazine.com/2023/05/20/1xbet-sport-bet-app-along-with-professionals-37/",
+            "urlToImage": "https://hplusmagazine.com/wp-content/uploads/2020/06/cropped-transhumanism_h_2-svg-1.png",
+            "publishedAt": "2023-05-20T09:02:55Z",
+            "content": "You want to pick the tactic through which you wish to withdraw your winnings. Again there is a minimum amount for all of the fee strategies listed on the website. After verifying the account, click o… [+29184 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hplusmagazine.com"
+            },
+            "author": "abhishek",
+            "title": "1xbet Online In India",
+            "description": "1xbet Online In India The customers can select either to do the 1xbet apk obtain or the ios download too. Not only this they have the likes of cell browser too, which is less complicated to entry. The website presents...",
+            "url": "https://hplusmagazine.com/2023/05/20/1xbet-online-in-india-109/",
+            "urlToImage": "https://hplusmagazine.com/wp-content/uploads/2020/06/cropped-transhumanism_h_2-svg-1.png",
+            "publishedAt": "2023-05-20T09:02:34Z",
+            "content": "The customers can select either to do the 1xbet apk obtain or the ios download too. Not only this they have the likes of cell browser too, which is less complicated to entry. The website presents a q… [+39609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bengreenfieldlife.com"
+            },
+            "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
+            "title": "The Latest New Health Gadgets You’ve Never Heard Of, The Intersection of AI & Biohacking, Miracle Mornings & Much More With Tim Gray.",
+            "description": "Tim Gray is the UK’s leading biohacker and founder of the Health Optimisation Summit June 17th – 18th, 2023. As\nThe post The Latest New Health Gadgets You’ve Never Heard Of, The Intersection of AI & Biohacking, Miracle Mornings & Much More With Tim Gray. appe…",
+            "url": "https://bengreenfieldlife.com/podcast/biohacking-podcasts/tim-gray-2-podcast/",
+            "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2023/05/BGL-Tim-Gray-LANDSCAPE.png",
+            "publishedAt": "2023-05-20T09:00:58Z",
+            "content": "May 20, 2023\r\nTim Gray is the UKs leading biohacker and founder of the Health Optimisation Summit June 17th 18th, 2023.\r\nAs a psychology specialist and a successful businessman, Tim founded or invest… [+13591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hplusmagazine.com"
+            },
+            "author": "abhishek",
+            "title": "Is 1xbet Authorized In India?",
+            "description": "Is 1xbet Authorized In India? It is important to note that every one submitted paperwork should be legitimate and up-to-date to ensure that the verification course of to be successful. Once verified, users will have access to all options on...",
+            "url": "https://hplusmagazine.com/2023/05/20/is-1xbet-authorized-in-india-59/",
+            "urlToImage": "https://hplusmagazine.com/wp-content/uploads/2020/06/cropped-transhumanism_h_2-svg-1.png",
+            "publishedAt": "2023-05-20T09:00:08Z",
+            "content": "It is important to note that every one submitted paperwork should be legitimate and up-to-date to ensure that the verification course of to be successful. Once verified, users will have access to all… [+40841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hplusmagazine.com"
+            },
+            "author": "abhishek",
+            "title": "1xbet App For Online Betting",
+            "description": "1xbet App For Online Betting Just just like the desktop options, gamers can entry all the transaction mediums utilizing 1xBet app. The 1xbet credit or debit card fee method is essentially the most preferred payment option to fund the account....",
+            "url": "https://hplusmagazine.com/2023/05/20/1xbet-app-for-online-betting-60/",
+            "urlToImage": "https://hplusmagazine.com/wp-content/uploads/2020/06/cropped-transhumanism_h_2-svg-1.png",
+            "publishedAt": "2023-05-20T08:59:52Z",
+            "content": "Just just like the desktop options, gamers can entry all the transaction mediums utilizing 1xBet app. The 1xbet credit or debit card fee method is essentially the most preferred payment option to fun… [+31885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hplusmagazine.com"
+            },
+            "author": "abhishek",
+            "title": "1xbet Sports Regular Match Males Blue Trousers",
+            "description": "1xbet Sports Regular Match Males Blue Trousers The license permits the bookmaker to arrange sports betting occasions in additional than 50 countries around the globe. Users of the 1xBet website should not be afraid of fines or different penalties. Thanks...",
+            "url": "https://hplusmagazine.com/2023/05/20/1xbet-sports-regular-match-males-blue-trousers-3/",
+            "urlToImage": "https://hplusmagazine.com/wp-content/uploads/2020/06/cropped-transhumanism_h_2-svg-1.png",
+            "publishedAt": "2023-05-20T08:57:34Z",
+            "content": "The license permits the bookmaker to arrange sports betting occasions in additional than 50 countries around the globe. Users of the 1xBet website should not be afraid of fines or different penalties… [+21700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bengreenfieldlife.com"
+            },
+            "author": "support@bengreenfieldfitness.com (Ben Greenfield)",
+            "title": "[Transcript] – The Latest New Health Gadgets You’ve Never Heard Of, The Intersection of AI & Biohacking, Miracle Mornings & Much More With Tim Gray.",
+            "description": "From podcast: https://bengreenfieldlife.com/podcast/tim-gray-2-podcast/ [00:00:00] Introduction [00:01:18] Podcast Sponsors [00:06:08] Who is Tim Gray? [00:19:07] Tim's daily routine [00:27:08] Tim's fitness\nThe post [Transcript] – The Latest New Health Gadge…",
+            "url": "https://bengreenfieldlife.com/transcripts/transcript-tim-gray-2-podcast/",
+            "urlToImage": "https://bengreenfieldlife.com/wp-content/uploads/2022/03/podcast-transcripts.png",
+            "publishedAt": "2023-05-20T08:45:21Z",
+            "content": "May 20, 2023\r\nFrom podcast: https://bengreenfieldlife.com/podcast/tim-gray-2-podcast/\r\n[00:00:00] Introduction\r\n[00:01:18] Podcast Sponsors\r\n[00:06:08] Who is Tim Gray?\r\n[00:19:07] Tim's daily routin… [+95796 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Himani Jha, Richa Sharma",
+            "title": "Vivo V29 Lite Specifications Leaked; Could House 5,000 mAh Battery",
+            "description": "Vivo V29 Lite is reportedly in the works. The handset is speculated to debut soon in the global market as well as the Indian market. While the company is yet to reveal anything about the purported smartphone, a reliable tipster has shared leaked some of the k…",
+            "url": "https://www.gadgets360.com/mobiles/news/vivo-v29-lite-specifications-leak-5000-mah-battery-android-13-features-expected-4051054",
+            "urlToImage": "https://i.gadgets360cdn.com/large/Vivo_V27_Pro_1678956024750.jpg",
+            "publishedAt": "2023-05-20T08:08:27Z",
+            "content": "Vivo V29 Lite is reportedly in the works. The handset is speculated to debut soon in the global market as well as in India. While the company is yet to reveal anything about the purported smartphone,… [+2096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Reuters",
+            "title": "EU Antitrust Regulators Quiz Microsoft’s Rivals on Request for Customer Data",
+            "description": "EU antitrust regulators are asking Microsoft's rivals what kind of customer data they are required to provide to the US tech giant as part of their Azure cloud contracts, six months after a trade group complained about its cloud computing practices. The Europ…",
+            "url": "https://www.gadgets360.com/internet/news/microsoft-cloud-rivals-eu-antitrust-regulators-quiz-on-request-customer-data-4050774",
+            "urlToImage": "https://i.gadgets360cdn.com/large/microsoft_retuers_1659157362864.jpg",
+            "publishedAt": "2023-05-20T05:49:24Z",
+            "content": "EU antitrust regulators are asking Microsoft's rivals what kind of customer data they are required to provide to the US tech giant as part of their Azure cloud contracts, six months after a trade gro… [+2076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gadgets360.com"
+            },
+            "author": "Agencies",
+            "title": "Japan Explores Ways to Join India's UPI Payment System",
+            "description": "Japan is mulling to join India's UPI payment system and promote cooperation on the digital identity system, an official statement said on Friday. Bhutan, Nepal, Singapore and UAE have already started accepting Unified Payment Interface (UPI) payment systems. …",
+            "url": "https://www.gadgets360.com/apps/news/japan-explore-ways-join-india-upi-payment-system-4050739",
+            "urlToImage": "https://i.gadgets360cdn.com/large/phone_payments_image_christiann_koepke_unsplash_1653290588935.jpg",
+            "publishedAt": "2023-05-20T05:38:04Z",
+            "content": "Japan is mulling to join India's UPI payment system and promote cooperation on the digital identity system, an official statement said on Friday.\r\nBhutan, Nepal, Singapore and UAE have already starte… [+2190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goodereader"
+            },
+            "author": "boldenon kaufen",
+            "title": "Comment on Third gen Qualcomm chip powering the HP TouchPad tablet officially revealed by boldenon kaufen",
+            "description": "... [Trackback]\n\n[...] Info on that Topic: goodereader.com/blog/tablet-slates/third-gen-qualcomm-chip-powering-the-hp-touchpad-tablet-officially-revealed [...]",
+            "url": "https://goodereader.com/blog/tablet-slates/third-gen-qualcomm-chip-powering-the-hp-touchpad-tablet-officially-revealed",
+            "urlToImage": null,
+            "publishedAt": "2023-05-20T04:08:52Z",
+            "content": "The HP TouchPad unveiled yesterday scores many a firsts. Like its the first tablet from the computer giant that is built for a mass consumption. Then it is the first tablet to run WebOS, the operatin… [+3340 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Government plans action against Google after antitrust breaches - The Economic Times",
+            "description": "<ol><li>Government plans action against Google after antitrust breaches  The Economic Times\r\n</li><li>India to take action against Google for antitrust breach: MoS IT  Business Today\r\n</li><li>India plans action against Google after antitrust breaches  Moneyc…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMihQFodHRwczovL20uZWNvbm9taWN0aW1lcy5jb20vdGVjaC90ZWNobm9sb2d5L2dvdmVybm1lbnQtcGxhbnMtYWN0aW9uLWFnYWluc3QtZ29vZ2xlLWFmdGVyLWFudGl0cnVzdC1icmVhY2hlcy9hcnRpY2xlc2hvdy8xMDAzNjk5NTcuY21z0gGJAWh0dHBzOi8vbS5lY29ub21pY3RpbWVzLmNvbS90ZWNoL3RlY2hub2xvZ3kvZ292ZXJubWVudC1wbGFucy1hY3Rpb24tYWdhaW5zdC1nb29nbGUtYWZ0ZXItYW50aXRydXN0LWJyZWFjaGVzL2FtcF9hcnRpY2xlc2hvdy8xMDAzNjk5NTcuY21z?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-05-20T03:20:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        }
+    ]
+}
