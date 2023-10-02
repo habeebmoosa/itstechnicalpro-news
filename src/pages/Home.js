@@ -3,7 +3,7 @@ import NewsPost from '../components/NewsPost'
 
 export default function Home() {
 
-  const category = "technology"
+  // const category = "technology"
   return (
     <div className='home'>
       {/* <div className='homeBanner'>
@@ -24,7 +24,7 @@ export default function Home() {
       <div className='category'>
             <h2>The Latest</h2>
             <hr className='hr'/>
-            <NewsPost category={category}/>
+            <NewsPost category={"technology"}/>
         </div>
     </div>
   )

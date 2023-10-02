@@ -1,54 +1,62 @@
 import Axios from 'axios'
-import React, { useState , useEffect } from 'react'
+import React, { useState, useEffect } from 'react'
 
+export default function NewsPost(props) {
+  const [news, setNews] = useState([])
 
-
-export default function NewsPost(props) {    
-
-   const [news, setNews] = useState([])
-
-//    https://newsapi.org/v2/everything?q=${props.category}&apiKey=b3df127a8b4c4cefbc63478a75307b07&sortBy=publishedAt&language=en
-
-    useEffect(() => {
-   Axios.get(`https://newsapi.org/v2/everything?q=${props.category}&apiKey=b3df127a8b4c4cefbc63478a75307b07&sortBy=publishedAt&language=en`)
-    .then((response) => {
+  useEffect(() => {
+    Axios.get(
+      `https://newsapi.org/v2/everything?q=${props.category}&apiKey=${process.env.REACT_APP_NEWS_API_KEY}&sortBy=publishedAt&language=en`
+    )
+      .then((response) => {
         setNews(response.data.articles)
         console.log(response.data.articles)
-    })
-    .catch((error) => {
+      })
+      .catch((error) => {
         console.log(error)
-    })
-    },[props.category])
-    
+      })
+  }, [props.category])
 
-    return (
-           <section className='newsSection'>
-   
-        {
-            news.map(data => {
-                return (
-                    <div className='news'>
-                        <div className='newsHeader'>
-                          <h2><a href={data.url} target='_blank' rel="noreferrer">{data.title}</a></h2>
-                          <span>{data.author}</span>
-                        </div>
-                        <div className='newsDescription'>
-                            <article>
-                            {data.description}
-                            </article>
-                            <span>{data.publishedAt}</span>
-                        </div>
-                        <div className='newsImg'>
-                            <img src={data.urlToImage} alt='News'></img>
-                        </div>
-                    </div>
-                )
-
-            })
-        }
-        </section>
-
-    )
+  return (
+    <section className='newsSection'>
+      {news && news.length > 0 ? (
+        news.map((data) => (
+          <div className='newsPost' key={data.title}>
+            <div className='newsContent'>
+              <div className='newsImage'>
+                <img src={data.urlToImage} alt='News' />
+              </div>
+              <div className='newsTitle'>
+                <h4>
+                  {data.title && data.title.length > 60
+                    ? data.title.substring(0, 60 - 3) + '...'
+                    : data.title}
+                </h4>
+              </div>
+              <div className='newsDesc'>
+                <p>
+                  {data.description && data.description.length > 250
+                    ? data.description.substring(0, 250 - 3) + '...'
+                    : data.description}
+                </p>
+              </div>
+            </div>
+            <div className='newsMoreInfo'>
+              <p>{data.author ? data.author : 'Unknown'}</p>
+              <button
+                className='MoreInfo'
+                onClick={() => {
+                  window.location.href = data.url
+                }}
+              >
+                More info
+              </button>
+            </div>
+          </div>
+        ))
+      ) : (
+        <p>Loading...</p>
+      )}
+    </section>
+  )
 }
-
-
